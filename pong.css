@@ -1,0 +1,48 @@
+body {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    margin: 0px;
+    width: 100%;
+    height: 100%;
+}
+
+#ball{
+    width: 64px;
+    height: 64px;
+    position: fixed;
+}
+
+#paddle1{
+    width: 24px;
+    height: 192px;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+}
+
+#paddle2{
+    width: 24px;
+    height: 192px;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+}
+
+#scores{
+    position: fixed;
+    top: 0px;
+    left: 50%;
+    bottom: 0px;
+    right: 0px;
+}
+
+#div{
+    font-size: 3em;
+}
